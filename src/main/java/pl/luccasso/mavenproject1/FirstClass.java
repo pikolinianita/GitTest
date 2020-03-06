@@ -11,4 +11,5 @@ package pl.luccasso.mavenproject1;
  */
 public class FirstClass {
     //Git Pierwsze zdanie
+    //Git Zdanie W Roboczej
 }
