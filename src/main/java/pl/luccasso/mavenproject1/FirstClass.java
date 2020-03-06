@@ -10,5 +10,5 @@ package pl.luccasso.mavenproject1;
  * @author piko
  */
 public class FirstClass {
-    
+    //Git Pierwsze zdanie
 }
